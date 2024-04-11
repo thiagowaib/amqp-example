@@ -6,6 +6,8 @@
   "scripts": {
     "send": "node ./sender.js",
     "receive": "node ./receiver.js",
+    "work": "node ./worker.js",
+    "task": "node ./new_task.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
